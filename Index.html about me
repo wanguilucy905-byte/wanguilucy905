@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucy Wangui - About Me</title>
+</head>
+<body>
+
+    <!-- Main Heading -->
+    <h1>Lucy Wangui</h1>
+
+    <!-- Placeholder Image -->
+    <img src="https://via.placeholder.com/200" alt="Profile Picture">
+
+    <!-- About Me Section -->
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is Lucy Wangui. I am currently learning web development
+        and improving my skills in HTML, CSS, and JavaScript.
+        I enjoy building websites and solving problems through code.
+    </p>
+
+    <!-- Hobbies List -->
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Coding</li>
+        <li>Watching movies</li>
+        <li>Learning new technology</li>
+    </ul>
+
+    <!-- Favorite Website -->
+    <h2>My Favorite Website</h2>
+    <p>
+        Visit my favorite site:
+        <a href="https://myflixer.com" target="_blank">MyFlixer</a>
+    </p>
+
+    <!-- Contact Email -->
+    <h2>Contact Me</h2>
+    <p>Email: <a href="wanguilucy905@gmail.com">wanguilucy905@gmail.com</a></p>
+
+</body>
+</html>
